@@ -1,0 +1,30 @@
+
+.iconscroll {   
+    display: flex;
+    padding: 32px 200px;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 20px;
+    width: 1520px;
+    height: 65px;
+    padding-right: 200px;
+    padding-left: 200px;
+  }
+  .social {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 15px;
+  
+    width: 228px;
+    height: 20px;
+  }
+  .social__icon {
+    width: 20px;
+    height: 20px;
+  }
+  .scroll{
+    margin-left: 500px;
+  }
